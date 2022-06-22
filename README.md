@@ -1,2 +1,2 @@
 # 7AMDEVOPS
-practise
+practise in cognizant laptop
